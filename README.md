@@ -1,2 +1,2 @@
 # competitive
-Algorithms and Data Structures used in programming contest
+Algorithms and Data Structures often used in programming contests
